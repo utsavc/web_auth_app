@@ -1,0 +1,2 @@
+This is web application developed using PHP MVC. Its simple project which sends mail as a form of OTP to the user when he/she tries to login in the system.
+It uses MySQL as database and bootstrap 5 as CSS framework 
